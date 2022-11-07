@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Karol, on github I’m @KVRXL
 - 👀 I’m interested in Full-stack apps
 - 🌱 I’m currently learning MERN Stack
-- 📫 Visit my portfolio website here: 
+- 📫 Visit my portfolio website here: https://kvrxl.github.io/karol.rozkowski.github.io/
 
 <!---
 KVRXL/KVRXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
